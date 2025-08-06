@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey", "good morning", "good evening"],
+      "responses": ["Hi there!", "Hello!", "Hey! How can I help you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you", "goodbye", "take care"],
+      "responses": ["Goodbye!", "See you later!", "Take care!"]
+    },
+    {
+      "tag": "help",
+      "patterns": ["i need help", "can you help me", "help me", "need assistance"],
+      "responses": ["Sure, I'm here to help you.", "What do you need help with?"]
+    },
+    {
+      "tag": "health",
+      "patterns": ["i am not feeling well", "i feel sick", "i have a headache", "i am tired"],
+      "responses": ["I'm sorry to hear that. Maybe you should take some rest or see a doctor."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you", "thx"],
+      "responses": ["You're welcome!", "Happy to help!", "Anytime!"]
+    },
+    {
+      "tag": "weather",
+      "patterns": ["weather", "hot"],
+      "responses": ["today is hot", "yes, it seems like very hot" ]
+    }
+  ]
+}

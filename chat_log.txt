@@ -1,0 +1,28 @@
+User: hi
+Bot: Hello! How can I help you today?
+User: i am ill
+Bot: I'm sorry, I didn't understand that. Can you rephrase?
+User: hi
+Bot: Hello! How can I help you today?
+User: i am not feeling well today
+Bot: I'm not sure how to respond to that. Could you rephrase?
+User: i am ill
+Bot: I'm not sure how to respond to that. Could you rephrase?
+User: how are you
+Bot: I'm doing well, thank you!
+User: exit
+Bot: Exiting... Have a nice day!
+User: hi
+Bot: Hello! How can I help you today?
+User: how ar you?
+Bot: I'm doing well, thank you!
+User: i need some hel
+Bot: I'm sorry, I didn't understand that. Can you rephrase?
+User: good morning
+Bot: I'm sorry, I didn't understand that. Can you rephrase?
+User: hi
+Bot: Hello! How can I help you today?
+User: how are you
+Bot: I'm doing well, thank you!
+User: good afternoon
+Bot: I'm sorry, I didn't understand that. Can you rephrase?

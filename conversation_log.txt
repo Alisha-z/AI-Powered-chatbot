@@ -1,0 +1,14 @@
+User: hi
+Bot: Hello! How can I help you today?
+User: how are you
+Bot: I'm doing well, thank you!
+User: i am ill
+Bot: I'm sorry, I don't understand that yet.
+User: please help me
+Bot: I'm sorry, I don't understand that yet.
+User: bye
+Bot: Goodbye! Have a great day.
+User: off
+Bot: I'm sorry, I don't understand that yet.
+User: exit
+Bot: Goodbye! Have a great day.
